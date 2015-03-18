@@ -1,0 +1,10 @@
+c:\users\v-arkouk\documents\visual studio 2013\Projects\DocumentDBDemo\DocumentDBTest\obj\Debug\DocumentDBTest.csprojResolveAssemblyReference.cache
+c:\users\v-arkouk\documents\visual studio 2013\Projects\DocumentDBDemo\DocumentDBTest\bin\Debug\DocumentDBTest.dll
+c:\users\v-arkouk\documents\visual studio 2013\Projects\DocumentDBDemo\DocumentDBTest\bin\Debug\DocumentDBTest.pdb
+c:\users\v-arkouk\documents\visual studio 2013\Projects\DocumentDBDemo\DocumentDBTest\bin\Debug\DocumentDBDemo.dll
+c:\users\v-arkouk\documents\visual studio 2013\Projects\DocumentDBDemo\DocumentDBTest\bin\Debug\Microsoft.Azure.Documents.Client.dll
+c:\users\v-arkouk\documents\visual studio 2013\Projects\DocumentDBDemo\DocumentDBTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\v-arkouk\documents\visual studio 2013\Projects\DocumentDBDemo\DocumentDBTest\bin\Debug\DocumentDBDemo.pdb
+c:\users\v-arkouk\documents\visual studio 2013\Projects\DocumentDBDemo\DocumentDBTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\v-arkouk\documents\visual studio 2013\Projects\DocumentDBDemo\DocumentDBTest\obj\Debug\DocumentDBTest.dll
+c:\users\v-arkouk\documents\visual studio 2013\Projects\DocumentDBDemo\DocumentDBTest\obj\Debug\DocumentDBTest.pdb
